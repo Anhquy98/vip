@@ -1,1 +1,1 @@
-Quydepzai:o.tcp.ap.ngrok.io:16689:0:0
+Quydepzai:o.tcp.ap.ngrok.io:10777:0:0
